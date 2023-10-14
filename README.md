@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Student at KLE Tech University<br>🤖 Machine Learning Enthusiast | Data Analysis Enthusiast<br>🔍 Exploring the Data-Driven World<br>📊 I enjoy uncovering meaningful patterns and trends within data, helping to make informed decisions and predictions.<br>Feel free to reach out, collaborate, or just geek out over all things related to data and AI. 🤓💻📈<br><br>Happy coding and data-crunching! 🚀📊📈 #MachineLearning #DataAnalysis #DataScience #GitHub #AI
+👨‍🎓 Student at KLE Tech University<br>🌱 Learning Machine Learning | Data Analysis Enthusiast<br>🔍 Exploring the Data-Driven World<br>📊 I enjoy uncovering meaningful patterns and trends within data, helping to make informed decisions and predictions.<br>Feel free to reach out, collaborate, or just geek out over all things related to data and AI. 🤓💻📈<br><br>Happy coding and data-crunching! 🚀📊📈 #MachineLearning #DataAnalysis #DataScience #GitHub #AI
 
 
 # 💻 Tech Stack:
