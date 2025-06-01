@@ -15,7 +15,7 @@ I am currently pursuing a **Bachelor's in Electronics and Communication** at **K
 
 ## 🛠️ Technical Skills
 
-- **Hardware Description Languages:** Verilog, SystemVerilog
+- **Hardware Description Languages:** Verilog, VHDL
 - **Synthesis & Verification:** Yosys, iverilog, GTKWave
 - **Programming:** C, Python (for scripting & automation)
 - **Version Control:** Git, GitHub
